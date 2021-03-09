@@ -1158,3 +1158,21 @@ projects:
     github_id: Erotemic/ubelt
     category: utilities
     pypi_id: ubelt
+  - name: PyMODM
+    pypi_id: pymodm
+    github_id: mongodb/pymodm
+    conda_id: conda-forge/pymodm
+    category: db-clients
+  - name: umongo
+    pypi_id: umongo
+    github_id: Scille/umongo
+    category: db-clients
+  - name: MongoEngine
+    pypi_id: mongoengine
+    github_id: MongoEngine/mongoengine
+    conda_id: conda-forge/mongoengine
+    category: db-clients
+  - name: ODMantic
+    pypi_id: odmantic
+    github_id: art049/odmantic
+    category: db-clients
